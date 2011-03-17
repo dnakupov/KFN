@@ -1,0 +1,352 @@
+TWebBrowserTutorial
+v7
+r0
+t318942631.140150
+cCheck dependencies
+cCpResource build/Debug-iphoneos/WebBrowserTutorial.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/Info.plist Info.plist
+cCompileXIB /Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib
+cCpResource build/Debug-iphoneos/WebBrowserTutorial.app/sample.html sample.html
+cCopyPNGFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon-72.png "../../Desktop/iOS - Projects/WebView/icon-72.png"
+cCopyPNGFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon.png "../../Desktop/iOS - Projects/WebView/icon.png"
+cCopyPNGFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon@2x.png "../../Desktop/iOS - Projects/WebView/icon@2x.png"
+cProcessPCH /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-hdmxsgvinosknjbjlsnriingsytf/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/main.o /Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/WebBrowserTutorialAppDelegate.o /Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial normal armv6
+cGenerateDSYMFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app.dSYM /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial
+cProcessProductPackaging "/Users/dnakupov/Library/MobileDevice/Provisioning Profiles/1271B98B-D6E2-423F-AF3D-2A49181EE58B.mobileprovision" /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/embedded.mobileprovision
+cTouch /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial.xcent
+cCodeSign /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon-72.png
+c000000004D523EFA0000000000001139
+t1297235706
+s4409
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon.png
+c000000004D523F090000000000000D67
+t1297235721
+s3431
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon@2x.png
+c000000004D523EE30000000000001DC8
+t1297235683
+s7624
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.h
+c0000000048E15E8C0000000000000163
+t1222729356
+s355
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m
+c000000004D525ED400000000000004CB
+t1297243860
+s1227
+i"WebBrowserTutorialAppDelegate.h"
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib
+c000000004D5275D10000000000005306
+t1297249745
+s21254
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch
+c0000000048E15E0D00000000000000CD
+t1222729229
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app
+t1297249831
+s476
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app.dSYM
+t1297244950
+s102
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/Info.plist
+t1297235005
+s831
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/MainWindow.nib
+t1297249830
+s1275
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/PkgInfo
+t1297235005
+s8
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/ResourceRules.plist
+t1297234060
+s485
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial
+t1297244950
+s21104
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/embedded.mobileprovision
+t1297234067
+s7302
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon-72.png
+t1297235771
+s5191
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon.png
+t1297235771
+s3906
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon@2x.png
+t1297235771
+s8581
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/sample.html
+t1297234060
+s2800
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/WebBrowserTutorial.LinkFileList
+c000000004D52388C000000000000013D
+t1297234060
+s317
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/WebBrowserTutorialAppDelegate.o
+t1297244950
+s45724
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/main.o
+t1297234066
+s6464
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial.xcent
+t1297235043
+s442
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m
+c0000000048E160B0000000000000016D
+t1222729904
+s365
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/sample.html
+c0000000048DD849A0000000000000AF0
+t1222476954
+s2800
+
+N/Users/dnakupov/Library/MobileDevice/Provisioning Profiles/1271B98B-D6E2-423F-AF3D-2A49181EE58B.mobileprovision
+c000000004D3AF7400000000000001C86
+t1295710016
+s7302
+
+N/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-hdmxsgvinosknjbjlsnriingsytf/WebBrowserTutorial_Prefix.pch.gch
+t1297234066
+s9983704
+
+NInfo.plist
+c0000000048E15E0D0000000000000381
+t1222729229
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318942628#318942628#0(0"0(0#1#0"8634019424#0"0#
+
+CCodeSign /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app
+s318942630.321094
+e318942631.140078
+r1
+xCodeSign
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app
+o/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app: replacing existing signature
+lSLF07#2@52"CodeSign build/Debug-iphoneos/WebBrowserTutorial.app318942630#318942631#0(121"/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app: replacing existing signature0(0#0#90"/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app8635073344#738"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Daniyar Nakupov (GSWDJ92AWW)" --resource-rules=/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/ResourceRules.plist --entitlements /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial.xcent /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/WebBrowserTutorialAppDelegate.o /Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318937748.213695
+e318937750.057431
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/WebBrowserTutorialAppDelegate.o
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m318937748#318937750#0(0"0(0#0#86"/Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m8625734272#2090"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/include -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/DerivedSources/armv6 -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/DerivedSources -include /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-hdmxsgvinosknjbjlsnriingsytf/WebBrowserTutorial_Prefix.pch -c /Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m -o /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/WebBrowserTutorialAppDelegate.o0#
+
+CCompileC build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/main.o /Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318926866.175135
+e318926866.516182
+r1
+xCompileC
+xbuild/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/main.o
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m318926866#318926866#0(0"0(0#0#53"/Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m8614891840#2032"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/include -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/DerivedSources/armv6 -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/DerivedSources -include /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-hdmxsgvinosknjbjlsnriingsytf/WebBrowserTutorial_Prefix.pch -c /Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m -o /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/main.o0#
+
+CCompileXIB /Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib
+s318942628.620970
+e318942630.316412
+r1
+xCompileXIB
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib:10: warning: Turning off phone number detection is not supported on iOS versions prior to 3.0.
+lSLF07#2@25"CompileXIB MainWindow.xib318942628#318942630#0(198"/* com.apple.ibtool.document.warnings *//Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib:10: warning: Turning off phone number detection is not supported on iOS versions prior to 3.0.1(22@81"Turning off phone number detection is not supported on iOS versions prior to 3.0.318942630#18446744073709551615#0#0(6@61"/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib318942545#10#0#10#0#0"0(0#0#61"/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib8633293088#577"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/MainWindow.nib /Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon-72.png "../../Desktop/iOS - Projects/WebView/icon-72.png"
+s318928569.204641
+e318928571.484291
+r1
+xCopyPNGFile
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon-72.png
+x../../Desktop/iOS - Projects/WebView/icon-72.png
+lSLF07#2@118"CopyPNGFile build/Debug-iphoneos/WebBrowserTutorial.app/icon-72.png "../../Desktop/iOS - Projects/WebView/icon-72.png"318928569#318928571#0(0"0(0#0#95"/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon-72.png8619824928#636"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon-72.png" /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon-72.png0#
+
+CCopyPNGFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon.png "../../Desktop/iOS - Projects/WebView/icon.png"
+s318928569.250546
+e318928571.484681
+r1
+xCopyPNGFile
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon.png
+x../../Desktop/iOS - Projects/WebView/icon.png
+lSLF07#2@112"CopyPNGFile build/Debug-iphoneos/WebBrowserTutorial.app/icon.png "../../Desktop/iOS - Projects/WebView/icon.png"318928569#318928571#0(0"0(0#0#92"/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon.png8619195904#630"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon.png" /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon.png0#
+
+CCopyPNGFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon@2x.png "../../Desktop/iOS - Projects/WebView/icon@2x.png"
+s318928571.484829
+e318928571.554349
+r1
+xCopyPNGFile
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon@2x.png
+x../../Desktop/iOS - Projects/WebView/icon@2x.png
+lSLF07#2@118"CopyPNGFile build/Debug-iphoneos/WebBrowserTutorial.app/icon@2x.png "../../Desktop/iOS - Projects/WebView/icon@2x.png"318928571#318928571#0(0"0(0#0#95"/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon@2x.png8615176224#636"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/dnakupov/Downloads/WebBrowserTutorial-1/../../Desktop/iOS - Projects/WebView/icon@2x.png" /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/icon@2x.png0#
+
+CCpResource build/Debug-iphoneos/WebBrowserTutorial.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s318926860.330600
+e318926860.435946
+r1
+xCpResource
+xbuild/Debug-iphoneos/WebBrowserTutorial.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist318926860#318926860#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist7810779306051726336#521"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app0#
+
+CCpResource build/Debug-iphoneos/WebBrowserTutorial.app/sample.html sample.html
+s318926860.437450
+e318926860.527113
+r1
+xCpResource
+xbuild/Debug-iphoneos/WebBrowserTutorial.app/sample.html
+xsample.html
+lSLF07#2@16"Copy sample.html318926860#318926860#0(0"0(0#0#58"/Users/dnakupov/Downloads/WebBrowserTutorial-1/sample.html8613762944#490"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dnakupov/Downloads/WebBrowserTutorial-1/sample.html /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app0#
+
+CGenerateDSYMFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app.dSYM /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial
+s318937750.600481
+e318937750.701365
+r1
+xGenerateDSYMFile
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app.dSYM
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial
+lSLF07#2@128"GenerateDSYMFile build/Debug-iphoneos/WebBrowserTutorial.app.dSYM build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial318937750#318937750#0(0"0(0#0#109"/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial8627136160#419"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial -o /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app.dSYM0#
+
+CLd /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial normal armv6
+s318937750.057820
+e318937750.600345
+r1
+xLd
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial
+xnormal
+xarmv6
+lSLF07#2@114"Link /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial318937750#318937750#0(0"0(0#0#0"8628108960#917"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos -F/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos -filelist /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/Objects-normal/armv6/WebBrowserTutorial.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/WebBrowserTutorial0#
+
+CProcessInfoPlistFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/Info.plist Info.plist
+s318927805.121593
+e318927805.557594
+r1
+xProcessInfoPlistFile
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist318927805#318927805#0(0"0(0#0#57"/Users/dnakupov/Downloads/WebBrowserTutorial-1/Info.plist8618326400#619"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/ResourceRules.plist -o /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/Info.plist0#
+
+CProcessPCH /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-hdmxsgvinosknjbjlsnriingsytf/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s318926863.764660
+e318926866.174866
+r1
+xProcessPCH
+x/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-hdmxsgvinosknjbjlsnriingsytf/WebBrowserTutorial_Prefix.pch.gch
+xWebBrowserTutorial_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile WebBrowserTutorial_Prefix.pch318926863#318926866#0(0"0(0#0#76"/Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch8617748288#1911"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/include -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/DerivedSources/armv6 -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/DerivedSources -c /Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch -o /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-hdmxsgvinosknjbjlsnriingsytf/WebBrowserTutorial_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/dnakupov/Library/MobileDevice/Provisioning Profiles/1271B98B-D6E2-423F-AF3D-2A49181EE58B.mobileprovision" /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/embedded.mobileprovision
+s318926867.149263
+e318926867.164490
+r1
+xProcessProductPackaging
+x/Users/dnakupov/Library/MobileDevice/Provisioning Profiles/1271B98B-D6E2-423F-AF3D-2A49181EE58B.mobileprovision
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/embedded.mobileprovision
+lSLF07#2@206"ProcessProductPackaging "/Users/dnakupov/Library/MobileDevice/Provisioning Profiles/1271B98B-D6E2-423F-AF3D-2A49181EE58B.mobileprovision" build/Debug-iphoneos/WebBrowserTutorial.app/embedded.mobileprovision318926867#318926867#0(0"0(0#0#115"/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/embedded.mobileprovision8617691616#453"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/dnakupov/Library/MobileDevice/Provisioning Profiles/1271B98B-D6E2-423F-AF3D-2A49181EE58B.mobileprovision" -o /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial.xcent
+s318927843.328069
+e318927843.353635
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial.xcent
+lSLF07#2@208"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial.xcent318927843#318927843#0(0"0(0#0#142"/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial.xcent8620581248#481"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug-iphoneos/WebBrowserTutorial.build/WebBrowserTutorial.xcent0#
+
+CTouch /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app
+s318942630.317301
+e318942630.320892
+r1
+xTouch
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app
+lSLF07#2@96"Touch /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app318942630#318942630#0(0"0(0#0#0"8635388480#291"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug-iphoneos/WebBrowserTutorial.app0#
+

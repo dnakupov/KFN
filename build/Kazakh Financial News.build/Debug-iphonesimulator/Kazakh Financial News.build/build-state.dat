@@ -1,0 +1,441 @@
+TKazakh Financial News
+v7
+r0
+t318958545.747379
+cCheck dependencies
+cProcessInfoPlistFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Info.plist" Info.plist
+cCompileXIB "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib"
+cCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/sample.html" sample.html
+cCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/Default-Landscape.png" Default-Landscape.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/Default-Portrait.png" Default-Portrait.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/Default.png" Default.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.png" icon-72.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon.png" icon.png
+cCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.png" icon@2x.png
+cProcessPCH "/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh Financial News_Prefix-apmhgqgvfywhdeaktyoicndvmwpy/Kazakh Financial News_Prefix.pch.gch" "Kazakh Financial News_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/main.o" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Classes/WebBrowserTutorialAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News" normal i386
+cGenerateDSYMFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app.dSYM" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News"
+cTouch "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon-72.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon@2x.png
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Classes/WebBrowserTutorialAppDelegate.h
+c0000000048E15E8C0000000000000163
+t1222729356
+s355
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Classes/WebBrowserTutorialAppDelegate.m
+c000000004D525ED400000000000004CB
+t1297243860
+s1227
+i"WebBrowserTutorialAppDelegate.h"
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default-Landscape.png
+c000000004D52AFFE00000000000EEB90
+t1297264638
+s977808
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default-Portrait.png
+c000000004D52B02400000000000EE095
+t1297264676
+s974997
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default.png
+c000000004D52AFCA00000000000BD00F
+t1297264586
+s774159
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Kazakh Financial News_Prefix.pch
+c0000000048E15E0D00000000000000CD
+t1222729229
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib
+c000000004D5275D10000000000005306
+t1297249745
+s21254
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app
+t1297265481
+s544
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app.dSYM
+t1297260902
+s102
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Default-Landscape.png
+t1297265364
+s977808
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Default-Portrait.png
+t1297265364
+s974997
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Default.png
+t1297265364
+s774159
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Info.plist
+t1297265149
+s736
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News
+t1297260902
+s11164
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/MainWindow.nib
+t1297260900
+s1275
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/PkgInfo
+t1297265149
+s8
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.jpg
+t1297264749
+s3198
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.png
+t1297265481
+s9194
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/icon.jpg
+t1297264749
+s2761
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/icon.png
+t1297265481
+s7047
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.jpg
+t1297264749
+s5022
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.png
+t1297265481
+s16790
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/sample.html
+t1297260900
+s2800
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/Kazakh Financial News.LinkFileList
+c000000004D52A1640000000000000171
+t1297260900
+s369
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+t1297260901
+s45708
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/main.o
+t1297260901
+s6348
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon-72.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon-72.png
+c000000004D52B33200000000000023EA
+t1297265458
+s9194
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon.png
+c000000004D52B32D0000000000001B87
+t1297265453
+s7047
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon@2x.jpg
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon@2x.png
+c000000004D52B3270000000000004196
+t1297265447
+s16790
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/main.m
+c0000000048E160B0000000000000016D
+t1222729904
+s365
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/sample.html
+c0000000048DD849A0000000000000AF0
+t1222476954
+s2800
+
+N/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh Financial News_Prefix-apmhgqgvfywhdeaktyoicndvmwpy/Kazakh Financial News_Prefix.pch.gch
+t1297260901
+s15453392
+
+NInfo.plist
+c000000004D52B1FD000000000000040D
+t1297265149
+s1037
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318958545#318958545#0(0"0(0#1#0"7809639104611708928#0"0#
+
+CCompileC "build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Classes/WebBrowserTutorialAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318953701.689337
+e318953701.927855
+r1
+xCompileC
+xbuild/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Classes/WebBrowserTutorialAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Classes/WebBrowserTutorialAppDelegate.m318953701#318953701#0(0"0(0#0#100"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Classes/WebBrowserTutorialAppDelegate.m8600625664#2518"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-generated-files.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-own-target-headers.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-all-target-headers.hmap" -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-project-headers.hmap" "-F/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/include" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/DerivedSources/i386" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/DerivedSources" -include "/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh Financial News_Prefix-apmhgqgvfywhdeaktyoicndvmwpy/Kazakh Financial News_Prefix.pch" -c "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Classes/WebBrowserTutorialAppDelegate.m" -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o"0#
+
+CCompileC "build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/main.o" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318953701.687644
+e318953701.913077
+r1
+xCompileC
+xbuild/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/main.o
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/main.m318953701#318953701#0(0"0(0#0#67"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/main.m8603284000#2460"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-generated-files.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-own-target-headers.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-all-target-headers.hmap" -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-project-headers.hmap" "-F/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/include" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/DerivedSources/i386" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/DerivedSources" -include "/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh Financial News_Prefix-apmhgqgvfywhdeaktyoicndvmwpy/Kazakh Financial News_Prefix.pch" -c "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/main.m" -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib"
+s318953700.160450
+e318953700.616859
+r1
+xCompileXIB
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib:10: warning: Turning off phone number detection is not supported on iOS versions prior to 3.0.
+lSLF07#2@25"CompileXIB MainWindow.xib318953700#318953700#0(212"/* com.apple.ibtool.document.warnings *//Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib:10: warning: Turning off phone number detection is not supported on iOS versions prior to 3.0.1(22@81"Turning off phone number detection is not supported on iOS versions prior to 3.0.318953700#18446744073709551615#0#0(6@75"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib318942545#10#0#10#0#0"0(0#0#75"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib8603784960#656"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/MainWindow.nib" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/Default-Landscape.png" Default-Landscape.png
+s318958164.612686
+e318958164.630679
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@26"Copy Default-Landscape.png318958164#318958164#0(0"0(0#0#82"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default-Landscape.png8609070752#565"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default-Landscape.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/Default-Portrait.png" Default-Portrait.png
+s318958164.613752
+e318958164.626064
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/Default-Portrait.png
+xDefault-Portrait.png
+lSLF07#2@25"Copy Default-Portrait.png318958164#318958164#0(0"0(0#0#81"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default-Portrait.png8597001472#564"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default-Portrait.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/Default.png" Default.png
+s318958164.614593
+e318958164.625497
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png318958164#318958164#0(0"0(0#0#72"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default.png8617294912#555"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Default.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.jpg" icon-72.jpg
+s318957549.520661
+e318957549.528581
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.jpg
+xicon-72.jpg
+lSLF07#2@16"Copy icon-72.jpg318957549#318957549#0(0"0(0#0#72"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon-72.jpg8608786624#555"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon-72.jpg" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.png" "../../Desktop/iOS - Projects/WebView/icon-72.png"
+s318953778.472938
+e318953778.479509
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.png
+x../../Desktop/iOS - Projects/WebView/icon-72.png
+o/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView: No such file or directory
+lSLF07#2@53"Copy ../../Desktop/iOS - Projects/WebView/icon-72.png318953778#318953778#0(233"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView: No such file or directoryCommand /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 11(4@107"Command /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 1318953778#18446744073709551615#0#0(1@0"0(0#0#109"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon-72.png8604500416#592"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon-72.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"1#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.png" icon-72.png
+s318958280.983441
+e318958281.025156
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon-72.png
+xicon-72.png
+lSLF07#2@16"Copy icon-72.png318958280#318958281#0(0"0(0#0#72"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon-72.png8610387136#555"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon-72.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon.jpg" icon.jpg
+s318957549.521463
+e318957549.529426
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon.jpg
+xicon.jpg
+lSLF07#2@13"Copy icon.jpg318957549#318957549#0(0"0(0#0#69"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon.jpg8602807936#552"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon.jpg" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon.png" "../../Desktop/iOS - Projects/WebView/icon.png"
+s318953778.473722
+e318953778.487723
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon.png
+x../../Desktop/iOS - Projects/WebView/icon.png
+o/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView: No such file or directory
+lSLF07#2@50"Copy ../../Desktop/iOS - Projects/WebView/icon.png318953778#318953778#0(233"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView: No such file or directoryCommand /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 11(4@107"Command /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 1318953778#18446744073709551615#0#0(1@0"0(0#0#106"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon.png8604412576#589"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"1#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon.png" icon.png
+s318958280.990801
+e318958281.028296
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png318958280#318958281#0(0"0(0#0#69"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon.png8590239008#552"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.jpg" icon@2x.jpg
+s318957549.522194
+e318957549.532979
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.jpg
+xicon@2x.jpg
+lSLF07#2@16"Copy icon@2x.jpg318957549#318957549#0(0"0(0#0#72"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon@2x.jpg8602872256#555"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon@2x.jpg" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.png" "../../Desktop/iOS - Projects/WebView/icon@2x.png"
+s318953778.474483
+e318953778.489087
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.png
+x../../Desktop/iOS - Projects/WebView/icon@2x.png
+o/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView: No such file or directory
+lSLF07#2@53"Copy ../../Desktop/iOS - Projects/WebView/icon@2x.png318953778#318953778#0(233"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView: No such file or directoryCommand /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 11(4@107"Command /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 1318953778#18446744073709551615#0#0(1@0"0(0#0#109"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon@2x.png8604390496#592"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/../../Desktop/iOS - Projects/WebView/icon@2x.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"1#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.png" icon@2x.png
+s318958280.994303
+e318958281.030647
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/icon@2x.png
+xicon@2x.png
+lSLF07#2@16"Copy icon@2x.png318958280#318958281#0(0"0(0#0#72"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon@2x.png8615521024#555"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/icon@2x.png" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Kazakh Financial News.app/sample.html" sample.html
+s318953700.162331
+e318953700.184893
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Kazakh Financial News.app/sample.html
+xsample.html
+lSLF07#2@16"Copy sample.html318953700#318953700#0(0"0(0#0#72"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/sample.html8603528608#555"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/sample.html" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+
+CGenerateDSYMFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app.dSYM" "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News"
+s318953702.322064
+e318953702.352308
+r1
+xGenerateDSYMFile
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app.dSYM
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News
+lSLF07#2@155"GenerateDSYMFile "build/Debug-iphonesimulator/Kazakh Financial News.app.dSYM" "build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News"318953702#318953702#0(0"0(0#0#136"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News8603486656#497"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News" -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app.dSYM"0#
+
+CLd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News" normal i386
+s318953701.927972
+e318953702.321930
+r1
+xLd
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News
+xnormal
+xi386
+lSLF07#2@141"Link /Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News318953701#318953702#0(0"0(0#0#0"8604390688#1090"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator" "-F/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator" -filelist "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Objects-normal/i386/Kazakh Financial News.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Kazakh Financial News"0#
+
+CProcessInfoPlistFile "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Info.plist" Info.plist
+s318957949.117405
+e318957949.120992
+r1
+xProcessInfoPlistFile
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist318957949#318957949#0(0"0(0#0#71"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Info.plist7955967321731457024#571"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app/Info.plist"0#
+
+CProcessPCH "/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh Financial News_Prefix-apmhgqgvfywhdeaktyoicndvmwpy/Kazakh Financial News_Prefix.pch.gch" "Kazakh Financial News_Prefix.pch" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318953700.617048
+e318953701.687316
+r1
+xProcessPCH
+x/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh Financial News_Prefix-apmhgqgvfywhdeaktyoicndvmwpy/Kazakh Financial News_Prefix.pch.gch
+xKazakh Financial News_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile Kazakh Financial News_Prefix.pch318953700#318953701#0(0"0(0#0#93"/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Kazakh Financial News_Prefix.pch8606270720#2314"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-generated-files.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-own-target-headers.hmap" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-all-target-headers.hmap" -iquote "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/Kazakh Financial News-project-headers.hmap" "-F/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/include" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/DerivedSources/i386" "-I/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Kazakh Financial News.build/Debug-iphonesimulator/Kazakh Financial News.build/DerivedSources" -c "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/Kazakh Financial News_Prefix.pch" -o "/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Kazakh Financial News_Prefix-apmhgqgvfywhdeaktyoicndvmwpy/Kazakh Financial News_Prefix.pch.gch"0#
+
+CTouch "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"
+s318958281.031307
+e318958281.034666
+r1
+xTouch
+x/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app
+lSLF07#2@120"Touch /Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app318958281#318958281#0(0"0(0#0#0"8617087552#340"    cd "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/dnakupov/Desktop/iOS - Projects/Kazakh Financial News/build/Debug-iphonesimulator/Kazakh Financial News.app"0#
+

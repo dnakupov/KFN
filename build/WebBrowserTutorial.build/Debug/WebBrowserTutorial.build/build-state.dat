@@ -1,0 +1,169 @@
+TWebBrowserTutorial
+v7
+r0
+t318926918.112725
+cCheck dependencies
+cProcessInfoPlistFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Info.plist Info.plist
+cCompileXIB /Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib
+cCpResource build/Debug/WebBrowserTutorial.app/Contents/Resources/sample.html sample.html
+cProcessPCH /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-bqfxjivkomyifzgvwpxkhujqvesl/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000000000000000000000000000
+t2
+s0
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.h
+c0000000048E15E8C0000000000000163
+t1222729356
+s355
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m
+c0000000048E1605C00000000000004BA
+t1222729820
+s1210
+i"WebBrowserTutorialAppDelegate.h"
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib
+c0000000048E15EB10000000000002487
+t1222729393
+s9351
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch
+c0000000048E15E0D00000000000000CD
+t1222729229
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app
+t1297234094
+s102
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Info.plist
+t1297234094
+s847
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/MacOS/WebBrowserTutorial
+t2
+s0
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/PkgInfo
+t1297234094
+s8
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Resources/MainWindow.nib
+t1297234098
+s1972
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Resources/sample.html
+t1297234094
+s2800
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorial.LinkFileList
+c000000004D5238AE0000000000000129
+t1297234094
+s297
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o
+t2
+s0
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m
+c0000000048E160B0000000000000016D
+t1222729904
+s365
+i<UIKit/UIKit.h>
+
+N/Users/dnakupov/Downloads/WebBrowserTutorial-1/sample.html
+c0000000048DD849A0000000000000AF0
+t1222476954
+s2800
+
+N/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-bqfxjivkomyifzgvwpxkhujqvesl/WebBrowserTutorial_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c0000000048E15E0D0000000000000381
+t1222729229
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318926894#318926894#0(0"0(0#1#0"8624040608#0"0#
+
+CCompileC build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/Objects-normal/i386/WebBrowserTutorialAppDelegate.o /Users/dnakupov/Downloads/WebBrowserTutorial-1/Classes/WebBrowserTutorialAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/Objects-normal/i386/main.o /Users/dnakupov/Downloads/WebBrowserTutorial-1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib
+s318926894.385577
+e318926898.225370
+r1
+xCompileXIB
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib:10: warning: Turning off phone number detection is not supported on iOS versions prior to 3.0.
+lSLF07#2@25"CompileXIB MainWindow.xib318926894#318926898#0(198"/* com.apple.ibtool.document.warnings *//Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib:10: warning: Turning off phone number detection is not supported on iOS versions prior to 3.0.1(22@81"Turning off phone number detection is not supported on iOS versions prior to 3.0.318926898#18446744073709551615#0#0(6@61"/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib244422193#10#0#10#0#0"0(0#0#61"/Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib8623293632#347"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Resources/MainWindow.nib /Users/dnakupov/Downloads/WebBrowserTutorial-1/MainWindow.xib --sdk ""0#
+
+CCpResource build/Debug/WebBrowserTutorial.app/Contents/Resources/sample.html sample.html
+s318926894.387849
+e318926894.478008
+r1
+xCpResource
+xbuild/Debug/WebBrowserTutorial.app/Contents/Resources/sample.html
+xsample.html
+lSLF07#2@16"Copy sample.html318926894#318926894#0(0"0(0#0#58"/Users/dnakupov/Downloads/WebBrowserTutorial-1/sample.html8613680032#376"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/dnakupov/Downloads/WebBrowserTutorial-1/sample.html /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Resources0#
+
+CLd /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/MacOS/WebBrowserTutorial normal i386
+r0
+
+CProcessInfoPlistFile /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Info.plist Info.plist
+s318926894.377670
+e318926894.384756
+r1
+xProcessInfoPlistFile
+x/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist318926894#318926894#0(0"0(0#0#57"/Users/dnakupov/Downloads/WebBrowserTutorial-1/Info.plist8618389664#348"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    builtin-infoPlistUtility Info.plist -genpkginfo /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-bqfxjivkomyifzgvwpxkhujqvesl/WebBrowserTutorial_Prefix.pch.gch WebBrowserTutorial_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318926898.225703
+e318926918.112553
+r0
+xProcessPCH
+x/var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-bqfxjivkomyifzgvwpxkhujqvesl/WebBrowserTutorial_Prefix.pch.gch
+xWebBrowserTutorial_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory
+lSLF07#2@40"Precompile WebBrowserTutorial_Prefix.pch318926898#318926918#0(131"/Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory1(4@40"UIKit/UIKit.h: No such file or directory318926905#0#131#0(6@76"/Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch244422029#7#0#7#0#28"*: No such file or directory0(0#0#76"/Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch8612096384#1573"    cd /Users/dnakupov/Downloads/WebBrowserTutorial-1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -fvisibility=hidden -gdwarf-2 -iquote /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/WebBrowserTutorial-generated-files.hmap -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/WebBrowserTutorial-own-target-headers.hmap -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/WebBrowserTutorial-all-target-headers.hmap -iquote /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/WebBrowserTutorial-project-headers.hmap -F/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/include -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/DerivedSources/i386 -I/Users/dnakupov/Downloads/WebBrowserTutorial-1/build/WebBrowserTutorial.build/Debug/WebBrowserTutorial.build/DerivedSources -c /Users/dnakupov/Downloads/WebBrowserTutorial-1/WebBrowserTutorial_Prefix.pch -o /var/folders/yX/yXy8mhlaHdWrmnpqHmMzRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/WebBrowserTutorial_Prefix-bqfxjivkomyifzgvwpxkhujqvesl/WebBrowserTutorial_Prefix.pch.gch1#
+
+CTouch /Users/dnakupov/Downloads/WebBrowserTutorial-1/build/Debug/WebBrowserTutorial.app
+r0
+
